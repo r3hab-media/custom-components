@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,iFAAI;AAEZ,AAAA,cAAc,CAAC,QAAQ,CAAC;EACtB,KAAK,EAAE,GAAG;EACV,SAAS,EAAE,GAAG;EACd,OAAO,EAAE,OAAO;EAChB,WAAW,EAAE,qBAAqB;EAClC,WAAW,EAAE,GAAG;CACjB;;AAED,AAAA,cAAc,CAAC,EAAE,CAAC;EAChB,YAAY,EAAE,IAAI;CACnB",
+    "sources": [
+        "../scss/custom-list.scss"
+    ],
+    "names": [],
+    "file": "custom-list.css"
+}

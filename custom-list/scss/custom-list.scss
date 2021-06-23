@@ -1,0 +1,11 @@
+.custom-marker ::marker {
+  color: red;
+  font-size: 1em;
+  content: "\f042";
+  font-family: "Font Awesome 5 Free";
+  font-weight: 700;
+}
+
+.custom-marker li {
+  padding-left: .5em;
+}
